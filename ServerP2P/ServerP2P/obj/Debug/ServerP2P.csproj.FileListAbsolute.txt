@@ -1,0 +1,19 @@
+C:\Users\Zorro\source\repos\ServerP2P\ServerP2P\bin\Debug\ServerP2P.exe.config
+C:\Users\Zorro\source\repos\ServerP2P\ServerP2P\bin\Debug\ServerP2P.exe
+C:\Users\Zorro\source\repos\ServerP2P\ServerP2P\bin\Debug\ServerP2P.pdb
+C:\Users\Zorro\source\repos\ServerP2P\ServerP2P\obj\Debug\ServerP2P.csprojAssemblyReference.cache
+C:\Users\Zorro\source\repos\ServerP2P\ServerP2P\obj\Debug\ServerP2P.Properties.Resources.resources
+C:\Users\Zorro\source\repos\ServerP2P\ServerP2P\obj\Debug\ServerP2P.csproj.GenerateResource.cache
+C:\Users\Zorro\source\repos\ServerP2P\ServerP2P\obj\Debug\ServerP2P.csproj.CoreCompileInputs.cache
+C:\Users\Zorro\source\repos\ServerP2P\ServerP2P\obj\Debug\ServerP2P.exe
+C:\Users\Zorro\source\repos\ServerP2P\ServerP2P\obj\Debug\ServerP2P.pdb
+C:\Users\Zorro\source\repos\ServerP2P\ServerP2P\obj\Debug\ServerP2P.Main.resources
+C:\Users\Laiba Sajjad\Desktop\finalCNProject\ServerP2P\ServerP2P\bin\Debug\ServerP2P.exe.config
+C:\Users\Laiba Sajjad\Desktop\finalCNProject\ServerP2P\ServerP2P\obj\Debug\ServerP2P.exe
+C:\Users\Laiba Sajjad\Desktop\finalCNProject\ServerP2P\ServerP2P\obj\Debug\ServerP2P.pdb
+C:\Users\Laiba Sajjad\Desktop\finalCNProject\ServerP2P\ServerP2P\bin\Debug\ServerP2P.exe
+C:\Users\Laiba Sajjad\Desktop\finalCNProject\ServerP2P\ServerP2P\bin\Debug\ServerP2P.pdb
+C:\Users\Laiba Sajjad\Desktop\finalCNProject\ServerP2P\ServerP2P\obj\Debug\ServerP2P.csprojResolveAssemblyReference.cache
+C:\Users\Laiba Sajjad\Desktop\finalCNProject\ServerP2P\ServerP2P\obj\Debug\ServerP2P.Main.resources
+C:\Users\Laiba Sajjad\Desktop\finalCNProject\ServerP2P\ServerP2P\obj\Debug\ServerP2P.Properties.Resources.resources
+C:\Users\Laiba Sajjad\Desktop\finalCNProject\ServerP2P\ServerP2P\obj\Debug\ServerP2P.csproj.GenerateResource.Cache
